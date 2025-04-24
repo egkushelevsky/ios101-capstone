@@ -70,7 +70,8 @@
 
 ## Wireframes
 
-![IMG_04406C379E1E-1](https://hackmd.io/_uploads/HJQmeBwylg.jpg)
+![IMG_04406C379E1E-1](https://github.com/user-attachments/assets/0b6592bf-ebf0-4ce6-9440-c5182cd65c68)
+
 
 ## Schema 
 
